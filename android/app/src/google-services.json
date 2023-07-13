@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "551986206898",
+    "project_id": "fir-fe574",
+    "storage_bucket": "fir-fe574.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551986206898:android:372f5cc4f67fd28aa511ab",
+        "android_client_info": {
+          "package_name": "com.example.date_time_picker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551986206898-j3c8ka5reojfr6pvduvl4s21i7f9kbtp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhCwaYqqq5cHT4FMNFweZXqCN7isNSrJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551986206898-j3c8ka5reojfr6pvduvl4s21i7f9kbtp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
